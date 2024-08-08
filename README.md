@@ -1,1 +1,1 @@
-# This is my first Local Repository
+# This is my first local repository
